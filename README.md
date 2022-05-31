@@ -1,4 +1,4 @@
-    Hi there 👋, I’m Subhash Maheshwari  (Python Engineer, Data Analyst, & Machine Learning Engineer!)
+    Hi there 👋, I’am a junior data scientist. (Python Engineer, Data Analyst, & Machine Learning Engineer!)
 	
 - 👀 I’m interested learn new technologies, and i love to playing with Data and wants to be work with a great data scientist.
 - 🌱 I’m currently learning Python, Machine Learning, Natural Language Processing.
